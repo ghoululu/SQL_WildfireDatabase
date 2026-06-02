@@ -25,6 +25,6 @@ The analytical suite leverages advanced query mechanics—including **Common Tab
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 * `WildfireDB_creation.sql`: Full DDL script initializing the database, creating the 10 core tables, populating relational mock data, and establishing constraint logic.
 * `WildfireDB_queries.sql`: Advanced DML analytical scripts, CTEs, window ranking functions, and stored
