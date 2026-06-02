@@ -290,5 +290,3 @@ Return: This query returns a table listing firefighter name, experience in years
 Managerial implications/recommendations: This query is important as it identifies the top experts in the field, and who to prioritize for other high-risk assignments or leadership roles. Monitoring firefighter workload can also help prevent overworking and burnout.
 */
 
-
--- Our third member was not able to complete/send us their queries, and has emailed Professor Otim about the situation.
